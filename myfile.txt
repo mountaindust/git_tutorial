@@ -1,3 +1,4 @@
+# This is a tutorial file with some basic code.
 import numpy as np
 rand_x = np.random.rand(15)
 # Here are some words.
