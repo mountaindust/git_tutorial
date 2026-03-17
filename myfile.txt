@@ -1,4 +1,6 @@
 # This is a tutorial file with some basic code.
 import numpy as np
+import matplotlib.pyplot as plt
 rand_x = np.random.rand(15)
+x_mesh = np.linspace(0,1,100)
 # Here are some words.
